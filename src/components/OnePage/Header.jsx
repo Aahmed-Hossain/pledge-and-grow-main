@@ -15,14 +15,14 @@ function Header() {
         <div className="row">
           <div className="col-lg-8">
             <div className="caption">
-              <h5 className="fw-300 mb-15">Digital agency studio</h5>
-              <h1 className="fz-80">a creative digital design studio</h1>
+              <h5 className="fw-300 mb-15">Applications Mobiles</h5>
+              <h1 className="fz-80">Services de Développement d'Applications Mobiles</h1>
             </div>
           </div>
           <div className="col-lg-4 d-flex align-items-end justify-content-end justify-end">
             <div className="d-flex align-items-center">
               <div>
-                <Link href="/dark/portfolio-grid" className="hover-this">
+                <Link href="#" className="hover-this">
                   <div className="circle-button hover-anim">
                     <div className="rotate-circle fz-30 text-u">
                       <svg className="textcircle" viewBox="0 0 500 500">

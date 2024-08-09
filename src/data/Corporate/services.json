@@ -3,21 +3,35 @@
     "id": 1,
     "image": "assets/imgs/serv-icons/0.png",
     "category": "Product Design",
-    "title": "Digital Product Design",
-    "text": "Creating a higher spacing and how people move through a unique."
+    "title": "Conception et Design",
+    "text": "Nous créons des designs de sites web qui captivent et engagent vos visiteurs. Nos designers travaillent étroitement avec vous pour comprendre votre marque et vos objectifs, garantissant ainsi que le design reflète parfaitement votre identité et vos valeurs."
   },
   {
     "id": 2,
     "image": "assets/imgs/serv-icons/1.png",
     "category": "Customs Services",
-    "title": "Branding & Design",
-    "text": "Creating a higher spacing and how people move through a unique."
+    "title": "Développement Web ",
+    "text": "Notre équipe de développeurs experts utilise les technologies les plus récentes pour construire des sites web robustes et performants. Nous nous assurons que votre site est rapide, sécurisé, et adapté à tous les types d'appareils pour offrir une expérience utilisateur optimale."
   },
   {
     "id": 3,
     "image": "assets/imgs/serv-icons/2.png",
     "category": "Product Development",
-    "title": "Web Development",
-    "text": "Creating a higher spacing and how people move through a unique."
+    "title": "Optimisation pour les Moteurs de Recherche (SEO)",
+    "text": " Nous optimisons votre site web pour les moteurs de recherche afin d'améliorer votre visibilité en ligne et attirer plus de trafic organique. Nos stratégies SEO incluent l'optimisation des mots-clés, la création de contenu de qualité, et l'amélioration de la structure du site."
+  },
+  {
+    "id": 4,
+    "image": "assets/imgs/serv-icons/2.png",
+    "category": "Product Development",
+    "title": "Maintenance et Support",
+    "text": " Nous proposons des services de maintenance et de support pour assurer que votre site web reste à jour et performant. Nos services incluent des mises à jour régulières, des corrections de bugs, et une surveillance continue pour prévenir tout problème potentiel.."
+  },
+  {
+    "id": 5,
+    "image": "assets/imgs/serv-icons/2.png",
+    "category": "Product Development",
+    "title": " Intégration et Personnalisation",
+    "text": "Nous intégrons votre site web avec divers systèmes et outils pour améliorer sa fonctionnalité. Que ce soient des solutions de gestion de contenu (CMS), des systèmes de paiement, ou des outils de marketing, nous veillons à ce que votre site soit parfaitement adapté à vos besoins spécifiques."
   }
 ]

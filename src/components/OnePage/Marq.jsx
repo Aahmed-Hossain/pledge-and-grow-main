@@ -10,6 +10,24 @@ function Marq() {
               <div className="slide-har st1 non-strok">
                 <div className="box">
                   <div className="item">
+                    <h4> Protection <span className="stroke opacity-4">Renforcée</span></h4>
+                  </div>
+                  <div className="item">
+                    <h4>Solutions <span className="stroke opacity-4">Complètes</span></h4>
+                  </div>
+                  <div className="item">
+                    <h4>Conformité<span className="stroke opacity-4"> et Réglementation</span></h4>
+                  </div>
+                  <div className="item">
+                    <h4>Réduction <span className="stroke opac des Risquesity-4"></span></h4>
+                  </div>
+                  <div className="item">
+                    <h4>Support <span className="stroke opacity-4">et Formation</span></h4>
+                  </div>
+                 
+                </div>
+                {/* <div className="box">
+                  <div className="item">
                     <h4>UI-UX <span className="stroke opacity-4">Experience</span></h4>
                   </div>
                   <div className="item">
@@ -24,24 +42,7 @@ function Marq() {
                   <div className="item">
                     <h4>Mobile <span className="stroke opacity-4">Solutions</span></h4>
                   </div>
-                </div>
-                <div className="box">
-                  <div className="item">
-                    <h4>UI-UX <span className="stroke opacity-4">Experience</span></h4>
-                  </div>
-                  <div className="item">
-                    <h4>Web <span className="stroke opacity-4">Development</span></h4>
-                  </div>
-                  <div className="item">
-                    <h4>Digital <span className="stroke opacity-4">Marketing</span></h4>
-                  </div>
-                  <div className="item">
-                    <h4>Product <span className="stroke opacity-4">Design</span></h4>
-                  </div>
-                  <div className="item">
-                    <h4>Mobile <span className="stroke opacity-4">Solutions</span></h4>
-                  </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

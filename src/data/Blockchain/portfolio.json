@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/portfolio/gallery/1.jpg",
+    "number": "01.",
+    "type": "",
+    "title": "Expertise Avancée",
+    "text": " Notre équipe possède une expertise approfondie en blockchain, avec une compréhension des dernières tendances et technologies."
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/portfolio/gallery/2.jpg",
+    "number": "02.",
+    "type": "",
+    "title": "Solutions Personnalisées",
+    "text": "Nous offrons des solutions adaptées à vos besoins spécifiques, garantissant un alignement parfait avec vos objectifs."
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/portfolio/gallery/3.jpg",
+    "number": "03.",
+    "type": "",
+    "title": " Innovation Continue",
+    "text": "Nous restons à la pointe de l'innovation pour vous fournir des solutions blockchain avancées et efficaces."
+  },
+  {
+    "id": 4,
+    "image": "assets/imgs/portfolio/gallery/1.jpg",
+    "number": "04.",
+    "type": "",
+    "title": "Engagement envers la Sécurité ",
+    "text": "Nous mettons un point d'honneur à assurer la sécurité et la conformité de toutes les solutions blockchain que nous développons."
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "/dark/assets/imgs/presse/works/1.jpg",
+    "title": "Harmony Inside - La culture d'entreprise en action !",
+    "category": "Branding",
+    "date": "2024"
+  },
+  {
+    "id": 2,
+    "image": "/dark/assets/imgs/presse/works/2.jpg",
+    "title": " Devenir le n°1 sur un marché hyperconcurrentiel, ou la culture comme positionnement",
+    "category": "Branding",
+    "date": "2023"
+  },
+  {
+    "id": 3,
+    "image": "/dark/assets/imgs/presse/works/3.jpg",
+    "title": "Automatiser pour Personnaliser avec Alexandre Bonetti",
+    "category": "Branding",
+    "date": "2023"
+  }
+]

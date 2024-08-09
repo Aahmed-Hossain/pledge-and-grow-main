@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/portfolio/gallery/1.jpg",
+    "number": "01.",
+    "type": "",
+    "title": "Évaluation Initiale",
+    "text": "Analyse complète de vos systèmes pour identifier les failles de sécurité potentielles."
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/portfolio/gallery/2.jpg",
+    "number": "02.",
+    "type": "",
+    "title": "Intégration Personnalisée",
+    "text": " Développement de solutions de cybersécurité sur mesure adaptées à vos besoins spécifiques."
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/portfolio/gallery/3.jpg",
+    "number": "03.",
+    "type": "",
+    "title": "Surveillance Continue",
+    "text": "Mise en place d'un système de surveillance pour garantir la sécurité de vos applications et logiciels en temps réel."
+  },
+  {
+    "id": 4,
+    "image": "assets/imgs/portfolio/gallery/1.jpg",
+    "number": "04.",
+    "type": "",
+    "title": "Révision Régulière",
+    "text": "Revue périodique des stratégies de cybersécurité pour s'adapter aux nouvelles menaces et vulnérabilités."
+  }
+]

@@ -7,7 +7,7 @@ function Price() {
       <div className="container section-padding pt-20 bord-thin-bottom">
         <div className="row">
           <div className="col-lg-5 valign">
-            <div className="cont full-width md-mb50">
+            <div style={{paddingRight: '10px', paddingLeft: '10px'}} className="cont full-width md-mb50">
               <div>
               <span className="sideup-text">
                   <span className="up-text">Scalez votre entreprise technologique à un prix abordable, sous la supervision des référents de notre entreprise. Vous préférez faire les choses vous-même?</span>

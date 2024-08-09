@@ -31,42 +31,42 @@ function Intro() {
               <div className="text">
                 <h2 className="d-slideup wow">
                   <span className="sideup-text">
-                    <span className="up-text">Watch the creative</span>
+                    <span className="up-text">Pourquoi Investir </span>
                   </span>
                   <span className="sideup-text">
-                    <span className="up-text">process behind our</span>
+                    <span className="up-text">dans une</span>
                   </span>
                   <span className="sideup-text">
-                    <span className="up-text"><span className="sub-font">digital marketing</span>.</span>
+                    <span className="up-text"><span className="sub-font">Application Mobile</span>?</span>
                   </span>
                 </h2>
               </div>
               <div className="accordion bord mt-40">
                 <div className="item mb-15 wow fadeInUp" data-wow-delay=".1s">
                   <div className="title" onClick={openAccordion}>
-                    <h6 className="fz-18">The Power of Influencer Marketing</h6>
+                    <h6 className="fz-18">Accessibilité Accrue</h6>
                     <span className="ico"></span>
                   </div>
                   <div className="accordion-info">
-                    <p className="fz-14">Taken possession of my entire soul, like these sweet mornings of spring which i enjoy with my whole.</p>
+                    <p className="fz-14">Atteignez vos clients directement sur leurs appareils mobiles, où qu'ils soient.</p>
                   </div>
                 </div>
                 <div className="item mb-15 wow fadeInUp" data-wow-delay=".3s">
                   <div className="title" onClick={openAccordion}>
-                    <h6 className="fz-18">Unique and Influential Design</h6>
+                    <h6 className="fz-18">Engagement Utilisateur</h6>
                     <span className="ico"></span>
                   </div>
                   <div className="accordion-info">
-                    <p className="fz-14">Taken possession of my entire soul, like these sweet mornings of spring which i enjoy with my whole.</p>
+                    <p className="fz-14">Offrez une expérience utilisateur enrichissante pour fidéliser vos clients et augmenter l'engagement.</p>
                   </div>
                 </div>
                 <div className="item wow fadeInUp" data-wow-delay=".5s">
                   <div className="title" onClick={openAccordion}>
-                    <h6 className="fz-18">We Build and Activate Brands</h6>
+                    <h6 className="fz-18">Innovation et Compétitivité </h6>
                     <span className="ico"></span>
                   </div>
                   <div className="accordion-info">
-                    <p className="fz-14">Taken possession of my entire soul, like these sweet mornings of spring which i enjoy with my whole.</p>
+                    <p className="fz-14">ositionnez-vous en tant qu'acteur innovant dans votre domaine avec une application mobile moderne et efficace.</p>
                   </div>
                 </div>
               </div>

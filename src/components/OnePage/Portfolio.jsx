@@ -77,7 +77,7 @@ function Portfolio({ lightMode }) {
                   <div className="row">
                     <div className="col-md-9">
                       <p>{item.text}.</p>
-                      <div className="vew-all mt-50 ml-25">
+                      {/* <div className="vew-all mt-50 ml-25">
                         <Link href="/dark/project-details2" className="sub-title">
                           Explore More
                           <span>
@@ -89,7 +89,7 @@ function Portfolio({ lightMode }) {
                             </svg>
                           </span>
                         </Link>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>

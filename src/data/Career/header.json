@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "number": "01",
+    "background": "/dark/assets/imgs/arch/slid/3.jpg",
+    "title": "Rejoignez Pledge and Grow <BR>  Boostez Votre Carrière Tech!",
+    "text": "Vous cherchez à accélérer votre carrière dans le secteur technologique et à acquérir des compétences d'entrepreneur ? Découvrez nos opportunités !"
+  },
+  {
+    "id": 2,
+    "number": "02",
+    "background": "/dark/assets/imgs/arch/slid/2.jpg",
+    "title": "Nous sommes   passionnés par la technologie.",
+    "text": "Nous nous engageons à lancer des produits technologiques innovants. En capitalisant sur notre expérience, nous cherchons toujours à améliorer l’impact de nos projets pour nos clients et nos initiatives internes."
+  },
+  {
+    "id": 3,
+    "number": "03",
+    "background": "/dark/assets/imgs/arch/slid/1.jpg",
+    "title": "Nous sommes <BR> ambitieux",
+    "text": "Notre objectif est de devenir la meilleure agence de développement en France. Nous aimons l’entrepreneuriat et travaillons avec des entrepreneurs visionnaires pour lancer des produits technologiques internes."
+  }
+]

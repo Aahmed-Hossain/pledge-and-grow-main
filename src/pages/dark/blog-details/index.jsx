@@ -7,7 +7,9 @@ import Layout from '@/layouts/default';
 import Loader from '@/components/Common/Loader';
 import Navbar from '@/components/Common/MainNavbar';
 import Details from '@/components/InnerPages/Blog/Details';
-import Footer from '@/components/Startup/Footer';
+import Footer from '@/components/HomeMain/Footer';
+import Comments from '@/components/InnerPages/Blog/Comments';
+import HeaderCopy from '@/components/InnerPages/Blog/HeaderCopy';
 
 
 function BlogDetails() {
@@ -19,13 +21,15 @@ function BlogDetails() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Blog Details</title>
+        <title>Pledge & Grow - Aides & Subventions</title>
       </Head>
 
       <Loader />
       <Navbar mainBg />
       <main>
-        <Details />
+        <HeaderCopy/>
+        {/* <Details /> */}
+        <Comments/>
       </main>
       <Footer />
     </>

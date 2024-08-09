@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "title": "Évaluation des Besoins",
+    "text": "Analyse approfondie de vos besoins pour identifier les opportunités où la blockchain peut apporter une valeur ajoutée.",
+    "image": "assets/imgs/serv-icons/0.png"
+  },
+  {
+    "id": 2,
+    "title": "Planification Stratégique ",
+    "text": "Élaboration de stratégies sur mesure pour intégrer la blockchain dans vos processus d'affaires et atteindre vos objectifs.",
+    "image": "assets/imgs/serv-icons/1.png"
+  },
+  {
+    "id": 3,
+    "title": "Études de Faisabilité ",
+    "text": "Évaluation de la faisabilité technique et économique des projets blockchain envisagés.",
+    "image": "assets/imgs/serv-icons/2.png"
+  },
+
+  {
+    "id": 4,
+    "title": " Développement de Smart Contracts",
+    "text": "Création et déploiement de smart contracts sur des plateformes telles qu’Ethereum, Binance Smart Chain, et autres.",
+    "image": "assets/imgs/serv-icons/1.png"
+  },
+  {
+    "id": 5,
+    "title": "Développement de dApps",
+    "text": "Conception et développement d'applications décentralisées (dApps) pour des cas d'utilisation spécifiques.",
+    "image": "assets/imgs/serv-icons/1.png"
+  },
+  {
+    "id": 6,
+    "title": "Intégration Blockchain",
+    "text": "Intégration de solutions blockchain avec vos systèmes existants pour une synchronisation et une fonctionnalité optimale.",
+    "image": "assets/imgs/serv-icons/0.png"
+  },
+  {
+    "id": 7,
+    "title": "Audit de Sécurité des Smart Contracts",
+    "text": "Analyse approfondie des smart contracts pour identifier et corriger les vulnérabilités.",
+    "image": "assets/imgs/serv-icons/2.png"
+  },
+  {
+    "id": 8,
+    "title": "Évaluation de la Sécurité Blockchain",
+    "text": "Révision des configurations et des implémentations pour garantir une sécurité maximale.",
+    "image": "assets/imgs/serv-icons/1.png"
+  },
+  {
+    "id": 9,
+    "title": "Conformité Réglementaire ",
+    "text": "Assurance que vos solutions blockchain respectent les réglementations locales et internationales.",
+    "image": "assets/imgs/serv-icons/0.png"
+  },
+  {
+    "id": 10,
+    "title": "Formation Personnalisée",
+    "image": "assets/imgs/serv-icons/1.png"
+  },
+  {
+    "id": 10,
+    "title": "Support Technique",
+    "text": "Assistance continue pour répondre à toutes les questions techniques et résoudre les problèmes liés à la blockchain.",
+    "image": "assets/imgs/serv-icons/1.png"
+  }
+  
+]

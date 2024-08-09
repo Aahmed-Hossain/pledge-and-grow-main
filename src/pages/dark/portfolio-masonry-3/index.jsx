@@ -18,13 +18,13 @@ function PortfolioMasonry3() {
 
   const metadata = {
     subTitle: "Our Works",
-    title: "Masonry 3."
+ title: "Blogs."
   }
 
   return (
     <>
       <Head>
-        <title>Geekfolio - Portfolio Masonry 3 Col</title>
+        <title>Pledge & Grow - Blogs</title>
       </Head>
 
       <Loader />

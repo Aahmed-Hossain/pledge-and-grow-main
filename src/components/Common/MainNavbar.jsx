@@ -72,13 +72,16 @@ function MainNavbar({ lightMode, mainBg, subBg, noStatic, curve }) {
                     <div className="col-lg-3">
                       <div className="clumn">
                         <div className="title">
-                          <h6 className="sub-title ls1">Qui-Somme-Nous?</h6>
+
+              
+
+                          <Link href={`/${lightMode ? 'light' : 'dark'}/page-about`} className="sub-title ls1">Qui-Somme-Nous?</Link>
                         </div>
                         <div className="links">
                           {/* <Link className="dropdown-item" href="#">Main Home</Link> */}
-                          <Link className="dropdown-item" href="/dark/home-corporate">Réalisations </Link>
-                          <Link className="dropdown-item" href="/dark/home-creative-agency">Carrières </Link>
-                          <Link className="dropdown-item" href="/dark/home-digital-agency">Blog</Link>
+                          <Link className="dropdown-item" href="/dark/page-services">Réalisations </Link>
+                          <Link className="dropdown-item" href="/dark/career">Carrières </Link>
+                          <Link className="dropdown-item" href="/dark/portfolio-masonry-3">Blog</Link>
                           {/* <Link className="dropdown-item" href="/dark/home-marketing-agency">Marketing Agency</Link>
                           <Link className="dropdown-item" href="/dark/home-creative-agency">Creative Agency</Link>
                           <Link className="dropdown-item" href="/dark/home-startup">Startup Bussines</Link>
@@ -89,7 +92,7 @@ function MainNavbar({ lightMode, mainBg, subBg, noStatic, curve }) {
                     <div className="col-lg-3">
                       <div className="clumn">
                         <div className="title">
-                          <h6 className="sub-title ls1">Aides & subventions</h6>
+                          <Link href={`/${lightMode ? 'light' : 'dark'}/blog-details`} className="sub-title ls1">Aides & subventions</Link>
                         </div>
                         <div className="links">
                           <Link className="dropdown-item" href="/light/home-main">Secteurs d'activité</Link>
@@ -110,7 +113,7 @@ function MainNavbar({ lightMode, mainBg, subBg, noStatic, curve }) {
                           <h6 className="sub-title ls1">Collaboration</h6>
                         </div>
                         <div className="links">
-                          <Link className="dropdown-item" href="/dark/showcase-circle-slider">Partenaires et Ambassadeurs</Link>           
+                          <Link className="dropdown-item" href="/dark/home-architecture">Partenaires et Ambassadeurs</Link>           
                           <Link className="dropdown-item" href="/dark/showcase-parallax-slider">Investisseurs</Link>
                           <Link className="dropdown-item" href="/dark/showcase-frame-slider">Écosystèmes (<span>À venir</span>)</Link>
                           {/* <Link className="dropdown-item" href="/dark/showcase-interactive-center-horizontal">Interactive Links1</Link>
@@ -156,7 +159,8 @@ function MainNavbar({ lightMode, mainBg, subBg, noStatic, curve }) {
                           <Link className="dropdown-item" href="/dark/home-corporate">Site Web </Link>
                           <Link className="dropdown-item" href="/dark/home-creative-agency">SAAS </Link>
                           <Link className="dropdown-item" href="/dark/home-digital-agency">Logiciels</Link>
-                          <Link className="dropdown-item" href="/dark/home-freelancer">Application Mobile</Link>
+                          <Link className="dropdown-item" href="/dark/home-freelancer">Application Web</Link>
+                          <Link className="dropdown-item" href="/dark/home-onepage">Application Mobile</Link>
                           {/* <Link className="dropdown-item" href="/dark/home-marketing-agency">Marketing Agency</Link>
                           <Link className="dropdown-item" href="/dark/home-creative-agency">Creative Agency</Link>
                           <Link className="dropdown-item" href="/dark/home-startup">Startup Bussines</Link>
@@ -171,10 +175,10 @@ function MainNavbar({ lightMode, mainBg, subBg, noStatic, curve }) {
                         </div>
                         <div className="links">
                           <Link className="dropdown-item" href="/light/home-main">E-commerce</Link>
-                          <Link className="dropdown-item" href="/light/home-corporate">IA / Machine Learning</Link>
-                          <Link className="dropdown-item" href="/light/home-onepage">Blockchain</Link>
+                          <Link className="dropdown-item" href="/dark/ia">IA / Machine Learning</Link>
+                          <Link className="dropdown-item" href="/dark/block-chain">Blockchain</Link>
                           <Link className="dropdown-item" href="/light/home-digital-agency">IoT</Link>
-                          <Link className="dropdown-item" href="/light/home-startup">Cybersécurité</Link>
+                          <Link className="dropdown-item" href="/dark/cyberSecurity">Cybersécurité</Link>
                           {/* <Link className="dropdown-item" href="/light/home-digital-agency">Digital Agency</Link>
                           <Link className="dropdown-item" href="/light/home-freelancer">Freelancer</Link>
                           <Link className="dropdown-item" href="/light/home-marketing-agency">Marketing Agency</Link>
@@ -193,7 +197,7 @@ function MainNavbar({ lightMode, mainBg, subBg, noStatic, curve }) {
                           <Link className="dropdown-item" href="/dark/showcase-circle-slider">Documentation</Link>
                           <Link className="dropdown-item" href="/dark/showcase-parallax-slider">UX / IX Design</Link>
                           <Link className="dropdown-item" href="/dark/showcase-frame-slider">Référencement</Link>
-                          <Link className="dropdown-item" href="/dark/showcase-carousel">Maintenance</Link>
+                          <Link className="dropdown-item" href="/dark/home-maintenance">Maintenance</Link>
                           <Link className="dropdown-item" href="/dark/showcase-circle-slider">Audit</Link>
                           {/* <Link className="dropdown-item" href="/dark/showcase-interactive-center-horizontal">Interactive Links1</Link>
                           <Link className="dropdown-item" href="/dark/showcase-interactive-center">Interactive Links2</Link>
@@ -201,6 +205,8 @@ function MainNavbar({ lightMode, mainBg, subBg, noStatic, curve }) {
                         </div>
                       </div>
                     </div>
+
+
                     {/* <div className="col-lg-3">
                       <div className="clumn">
                         <div className="title">
@@ -217,6 +223,35 @@ function MainNavbar({ lightMode, mainBg, subBg, noStatic, curve }) {
                         </div>
                       </div>
                     </div> */}
+
+
+
+
+
+{/* 4th */}
+<div className="col-lg-3">
+                      <div className="clumn">
+                        <div className="title">
+                          <h6 className="sub-title ls1"> 
+                          POLITIQUES
+                          </h6>
+                        </div>
+                        <div className="links">
+                          <Link className="dropdown-item" href="/dark/presse">Presse</Link>
+                          <Link className="dropdown-item" href="/dark/mentions-legales">Mentions legales</Link>
+                          <Link className="dropdown-item" href="/dark/conditions-generales-de-vente-et-dutilisation">Conditions Générales</Link>
+                          <Link className="dropdown-item" href="/dark/project">Projects</Link>
+                        
+                       
+                        </div>
+                      </div>
+                    </div>
+
+
+
+
+
+
                   </div>
                 </div>
               </div>

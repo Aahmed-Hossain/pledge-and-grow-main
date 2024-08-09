@@ -45,15 +45,15 @@ function Services({ lightMode }) {
         <div className="sec-head mb-80">
           <div className="row">
             <div className="col-lg-5">
-              <h6 className="sub-title opacity-8 wow fadeInUp">Main directions</h6>
+              {/* <h6 className="sub-title opacity-8 wow fadeInUp">Main directions</h6> */}
               <h2 className="d-rotate wow">
-                <span className="rotate-text">Services.</span>
+                <span className="rotate-text fz-40">Pourquoi Choisir Nos Services de Cybersécurité ?</span>
               </h2>
             </div>
             <div className="col-lg-4 d-flex align-items-center">
-              <div className="text d-rotate wow md-mb30">
-                <p className="rotate-text">Finding the best marketing solution for your business. Driven by data based on human behavior.</p>
-              </div>
+              {/* <div className="text d-rotate wow md-mb30">
+                <p className="rotate-text">Pourquoi Choisir Nos Services de Développement d'Applications Mobiles?</p>
+              </div> */}
             </div>
             <div className="col-lg-3 d-flex align-items-center wow fadeIn">
               <div className="full-width">
@@ -101,7 +101,7 @@ function Services({ lightMode }) {
                         </div>
                         <h6 className="mb-15">{item.title}</h6>
                         <p>{item.text}</p>
-                        <Link href="/dark/page-services" className="arrow mt-40">
+                        {/* <Link href="/dark/page-services" className="arrow mt-40">
                           <span className="circle">
                             <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                               xmlns="http://www.w3.org/2000/svg">
@@ -111,7 +111,7 @@ function Services({ lightMode }) {
                             </svg>
                           </span>
                           <span className="fz-12 text-u ml-10">Read More</span>
-                        </Link>
+                        </Link> */}
                       </div>
                     </SwiperSlide>
                   ))

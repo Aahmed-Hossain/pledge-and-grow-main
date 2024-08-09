@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/portfolio/gallery/1.jpg",
+    "number": "01.",
+    "type": "",
+    "title": "Expertise en IA",
+    "text": "Notre équipe comprend des experts en IA et en apprentissage automatique qui possèdent une connaissance approfondie des dernières technologies et pratiques."
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/portfolio/gallery/2.jpg",
+    "number": "02.",
+    "type": "",
+    "title": "Approche Proactive",
+    "text": "Surveillance proactive et optimisation continue pour garantir des performances optimales et anticiper les problèmes potentiels."
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/portfolio/gallery/3.jpg",
+    "number": "03.",
+    "type": "",
+    "title": "Adaptabilité",
+    "text": "Services de maintenance personnalisés pour répondre spécifiquement aux besoins de votre entreprise et de vos utilisateurs."
+  },
+  {
+    "id": 4,
+    "image": "assets/imgs/portfolio/gallery/1.jpg",
+    "number": "01.",
+    "type": "",
+    "title": "Sécurité et Conformité ",
+    "text": "Engagement envers la sécurité des données et la conformité aux normes réglementaires et éthiques."
+  }
+]

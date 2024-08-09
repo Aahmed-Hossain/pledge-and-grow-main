@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/serv-icons/0.png",
+    "title": "Conception d'Applications Mobiles ",
+    "text": "Simplébo, l'agence Web la mieux notée de France"
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/serv-icons/1.png",
+    "title": "Développement et Déploiement",
+    "text": "Simplébo, le créateur de sites Web qui monte"
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/serv-icons/0.png",
+    "title": "Intégration avec Systèmes Existants",
+    "text": "Alexandre Bonetti (CEO de Simplébo) sur BFM TV"
+  }
+]

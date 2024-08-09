@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/imgs/serv-icons/0.png",
+    "title": " Équipe",
+    "text": "10 collaborateurs"
+  },
+  {
+    "id": 2,
+    "image": "/assets/imgs/serv-icons/1.png",
+    "title": "Âge moyen",
+    "text": "21 ans"
+  },
+  {
+    "id": 3,
+    "image": "/assets/imgs/serv-icons/2.png",
+    "title": "Chiffre d'affaires ",
+    "text": "1M€"
+  }
+]

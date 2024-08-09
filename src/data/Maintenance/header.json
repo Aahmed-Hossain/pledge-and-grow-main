@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "background": "/dark/assets/imgs/background/17.jpg",
+      "title": "",
+      "text": "Maintenance pour Solutions SaaS",
+      "button": {
+        "link": "/dark/page-about",
+        "text": "Get Solutions"
+      }
+    },
+    {
+      "id": 2,
+      "background": "/dark/assets/imgs/background/14.jpg",
+      "title": "",
+      "text": "Maintenance pour Sites CMS",
+      "button": {
+        "link": "/dark/page-about",
+        "text": "Get Solutions"
+      }
+    },
+    {
+      "id": 3,
+      "background": "/dark/assets/imgs/background/19.jpg",
+      "title": "",
+      "text": "Maintenance pour Applications Full-Stack",
+      "button": {
+        "link": "/dark/page-about",
+        "text": "Get Solutions"
+      }
+    }
+  ]

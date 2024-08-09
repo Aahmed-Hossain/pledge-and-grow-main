@@ -6,7 +6,7 @@ import Layout from '@/layouts/default';
 //= Components
 import Loader from '@/components/Common/Loader';
 import LinesTwo from '@/components/Common/LinesTwo';
-import Navbar from '@/components/Common/MainNavbar';
+import MainNavbar from '@/components/Common/MainNavbar';
 import Header from '@/components/OnePage/Header';
 import About from '@/components/OnePage/About';
 import Marq from '@/components/OnePage/Marq';
@@ -18,7 +18,7 @@ import ImageSection from '@/components/OnePage/Image';
 import Team from '@/components/OnePage/Team';
 import Blog from '@/components/OnePage/Blog';
 import Contact from '@/components/OnePage/Contact';
-import Footer from '@/components/OnePage/Footer';
+import Footer from '@/components/HomeMain/Footer';
 
 function HomeOnePage() {
   useEffect(() => {
@@ -29,12 +29,13 @@ function HomeOnePage() {
   return (
     <>
       <Head>
-        <title>Geekfolio - One Page</title>
+        <title>Plegde & Grow - Application Mobile</title>
       </Head>
 
       <Loader />
       <LinesTwo />
-      <Navbar curve noStatic />
+      {/* <Navbar curve noStatic /> */}
+      <MainNavbar/>
       <main className="main-bg">
         <Header />
         <About />
@@ -42,10 +43,10 @@ function HomeOnePage() {
         <Services />
         <Portfolio />
         <Intro />
-        <Testimonials />
+        {/* <Testimonials />
         <ImageSection />
         <Team />
-        <Blog />
+        <Blog /> */}
         <Contact />
       </main>
       <Footer />

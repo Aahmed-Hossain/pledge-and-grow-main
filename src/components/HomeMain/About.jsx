@@ -41,7 +41,7 @@ function About({ lightMode }) {
             </div>
           </div>
         </div>
-        <div className="row justify-content-center">
+        <div style={{paddingLeft:'10px', paddingRight:' 10px'}} className="row justify-content-center">
           <div className="col-lg-6 rest">
             <div className="imgs md-mb50">
               <div className="img1">
