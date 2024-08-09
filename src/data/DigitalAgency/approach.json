@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Planification",
+    "text": "Nous identifions les outils informatiques et les langages de programmation pour réaliser votre projet.",
+    "number": "01"
+  },
+  {
+    "id": 2,
+    "title": "Développement",
+    "text": "Nos équipes de développeurs back-end et front-end développent votre projet selon une roadmap convenue.",
+    "number": "02"
+  },
+  {
+    "id": 3,
+    "title": "MVP",
+    "text": "Déploiement de l'application conforme aux critères définis. Aprés les test, nous optimisons l'application pour garantir sa qualité.",
+    "number": "03"
+  }
+]

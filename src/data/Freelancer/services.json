@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/serv-icons/0.png",
+    "title": "Conception d'Applications Mobiles ",
+    "text": "Nous créons des applications mobiles innovantes pour Android et iOS, en mettant l'accent sur l'expérience utilisateur et la performance. Nos concepteurs travaillent en étroite collaboration avec vous pour transformer vos idées en applications fonctionnelles et attrayantes."
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/serv-icons/1.png",
+    "title": "Développement et Déploiement",
+    "text": "Nos développeurs utilisent les dernières technologies pour construire des applications mobiles robustes et évolutives. Nous nous chargeons également du déploiement sur les différentes plateformes d'applications (Google Play, App Store), assurant une diffusion optimale auprès de vos utilisateurs cibles."
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/serv-icons/0.png",
+    "title": "Intégration avec Systèmes Existants",
+    "text": "Nous intégrons vos applications mobiles avec vos systèmes backend et autres solutions IT pour assurer une communication fluide et sécurisée. Cette intégration permet d'offrir des fonctionnalités avancées et une expérience utilisateur cohérente sur toutes les plateformes."
+  },
+  {
+    "id": 4,
+    "image": "assets/imgs/serv-icons/1.png",
+    "title": "Sécurité et Performances ",
+    "text": "Nous mettons en œuvre des mesures de sécurité rigoureuses pour protéger les données de vos utilisateurs et garantir la conformité avec les standards de l'industrie. Nos tests de performance assurent que vos applications fonctionnent de manière fluide et efficace, même sous une forte charge."
+  },
+  {
+    "id": 5,
+    "image": "assets/imgs/serv-icons/1.png",
+    "title": "Support et Mise à Jour ",
+    "text": "Pour maintenir vos applications à jour et performantes, nous offrons des services de support et de maintenance. Nous assurons des mises à jour régulières pour introduire de nouvelles fonctionnalités, corriger les bugs et améliorer la sécurité, garantissant ainsi une expérience utilisateur de qualité supérieure."
+  }
+]

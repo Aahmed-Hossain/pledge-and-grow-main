@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/imgs/serv-icons/0.png",
+    "title": "Exclusivité Garantie par Secteur d'Activité",
+    "text": ":Assurez-vous une position privilégiée en étant l'unique partenaire dans votre secteur."
+  },
+  {
+    "id": 2,
+    "image": "/assets/imgs/serv-icons/1.png",
+    "title": "Utilisation d'Outils et Logiciels de Haute Qualité",
+    "text": "Accédez à des technologies de pointe pour améliorer vos opérations."
+  },
+  {
+    "id": 3,
+    "image": "/assets/imgs/serv-icons/2.png",
+    "title": "Support 24/7 Prioritaire ",
+    "text": "Assistance technique disponible à tout moment."
+  },
+  {
+    "id": 4,
+    "image": "/assets/imgs/serv-icons/0.png",
+    "title": "Consultations Trimestrielles avec des Experts ",
+    "text": "Rencontrez régulièrement nos experts pour optimiser votre stratégie "
+  },
+  {
+    "id": 5,
+    "image": "/assets/imgs/serv-icons/1.png",
+    "title": "Accès Gratuit à des Formations et Webinaires ",
+    "text": "Développez vos compétences grâce à notre offre de formations et webinaires gratuits."
+  },
+  {
+    "id": 6,
+    "image": "/assets/imgs/serv-icons/2.png",
+    "title": "Rapports Mensuels sur les Tendances Technologiques ",
+    "text": "Restez informé des dernières innovations et tendances du secteur."
+  },
+  {
+    "id": 7,
+    "image": "/assets/imgs/serv-icons/0.png",
+    "title": "Suivi Personnalisé",
+    "text": "Un gestionnaire de compte dédié pour répondre à vos besoins spécifiques."
+  }
+]

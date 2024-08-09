@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "content": "Très professionnelle, de l'originalité comparé aux autres entreprises.",
+    "image": "assets/imgs/testim/Hes.png",
+    "author": "Hes",
+    "position": "8 février 2024"
+  },
+  {
+    "id": 2,
+    "content": "Merci pour votre site, très bonne réception et qualité.",
+    "image": "assets/imgs/testim/Galal.png",
+    "author": "Galal Khadr",
+    "position": "8 février 2024"
+  },
+  {
+    "id": 3,
+    "content": "Merci pour le design de flyers qu’ils nous ont offert durant la promotion. Qualité prix c’est le top.",
+    "image": "assets/imgs/testim/Naveck.png",
+    "author": "Naveck Ngoma",
+    "position": "27 janvier 2024"
+  },
+  {
+    "id": 4,
+    "content": "Équipe tres gentille et professionnelle. Mon beaucoup aidé pour tout ce qui est réseaux sociaux.",
+    "image": "assets/imgs/testim/Ok.png",
+    "author": "Ok Ook",
+    "position": "27 janvier 2024"
+  },
+  {
+    "id": 5,
+    "content": "Tres bon travail!.",
+    "image": "assets/imgs/testim/Slaxhr.png",
+    "author": "Slaxhr.",
+    "position": "6 janvier 2024"
+  },
+  {
+    "id": 6,
+    "content": "Merci pour le design de flyers qu’ils nous ont offert durant la promotion. Qualité prix c’est le top.",
+    "image": "assets/imgs/testim/aurix.png",
+    "author": "aurix b",
+    "position": "6 janvier 2024"
+  }
+
+]

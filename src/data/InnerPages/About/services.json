@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/serv-icons/0.png",
+    "title": "Transparence & Excellence",
+    "text": "Nous avons choisi les meilleurs pour vous délivrer un travail de qualité, en vous guidant et en vous assurant un suivi transparent."
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/serv-icons/1.png",
+    "title": "Diversité & Inclusivité",
+    "text": "Nous accueillons toutes les personnes, tant que vous êtes capable de garder vos opinions politiques ou personnelles en dehors du cadre professionnel."
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/serv-icons/2.png",
+    "title": "Loyauté & Exclusivité",
+    "text": "Nous ne travaillons pas avec deux entreprises concurrentes simultanément. Nos partenariats sont exclusifs par secteur d'activité pour assurer un écosystème solide."
+  }
+]
